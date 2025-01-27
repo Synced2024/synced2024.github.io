@@ -28,7 +28,7 @@ The past week we migrated our previous codebases to a combined repository. This 
 
 <!-- {{ $image := $image.Fit "600x400" }} -->
 <!-- ![Events page](/images/blog-1-events-page.png "The events page") -->
-<img src="/images/blog-1-events-page.png" alt="events" width="200"/>
+<img src="/posts/blog-1-events-page.png" alt="events" width="200"/>
 
 # A Technical Delema
 
@@ -39,7 +39,7 @@ However, not everything was smooth sailing. There was one disagreeing use of pac
 
 Here is a few screenshots of the various implemented screens:
 
-<img src="/images/blog-1-login-page.png" alt="login" width="200"/>
+<img src="/posts/blog-1-login-page.png" alt="login" width="200"/>
 
 # The Future Plans
 
