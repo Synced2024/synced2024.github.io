@@ -28,7 +28,7 @@ We have refined our notification system to provide:
 
 - **Instant updates on event changes.**
 - **Alerts for new group creations or modifications.**
-- **Reminders for upcoming deadlines and group tasks.**
+- **Set do not disturbe time to disable notification**
 
 These enhancements ensure that users **never miss an important update** and can stay organized effortlessly.
 
